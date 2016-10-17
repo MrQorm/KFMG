@@ -6,8 +6,15 @@ sdsdsd
 sdsdsds
 fgfgfg
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdsd
 ssdd
 =======
 sdsd
 >>>>>>> featureE
+=======
+sdsd
+ssdd
+aadsdsds
+sdsdsd
+>>>>>>> featureB

@@ -5,5 +5,9 @@ sdsdsd
 sdsdsd
 sdsdsds
 fgfgfg
+<<<<<<< HEAD
 sdsd
 ssdd
+=======
+sdsd
+>>>>>>> featureE
